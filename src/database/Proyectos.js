@@ -11,7 +11,7 @@ export const proyectos = [
     {
         id: 2,
         nombre: "Aplicación de Super Héroes",
-        descripcion: "Una aplicación que nos permite realizar un CRUD completo, Crear una tarea, Leer la tarea, actualizar nuestra tarea y eliminarla.",
+        descripcion: "Una aplicación que nos muestra la información de los super heroes de Marvel y DC.",
         stack: "React - JSX - Tailwind - LocalStorage",
         link_preview: "#",
         link_github: "#",
@@ -20,7 +20,7 @@ export const proyectos = [
     {
         id: 3,
         nombre: "Aplicación del Clima",
-        descripcion: "Una aplicación que nos permite realizar un CRUD completo, Crear una tarea, Leer la tarea, actualizar nuestra tarea y eliminarla.",
+        descripcion: "Una aplicación que nos permite conocer el clima de cualquier ciudad del mundo.",
         stack: "React - JSX - Tailwind - LocalStorage",
         link_preview: "#",
         link_github: "#",
@@ -30,7 +30,7 @@ export const proyectos = [
         id: 4,
         nombre: "Landing Page Personal",
         descripcion: "Esta aplicación es la carta de presentación, donde se puede visualizar la información de Perfil, Estudios, Experiencia, Portafolio y Contacto",
-        stack: "React - JSX - MaterialUI",
+        stack: "React - JSX - Material UI",
         link_preview: "https://landingpagekennier.web.app/",
         link_github: "https://github.com/kennierlujan/LandingPageMUI",
         imagen: "landing.jpg",

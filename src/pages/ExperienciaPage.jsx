@@ -42,7 +42,7 @@ export const ExperienciaPage = () => {
             InterNexa S.A.
           </Typography>
           <Typography sx={{ fontFamily: "roboto" }}>
-            <p>Ingeniero de Proyectos</p>
+            Ingeniero de Proyectos
             <p>Nov/2012 - Actualmente</p>
           </Typography>
         </Paper>
@@ -62,7 +62,7 @@ export const ExperienciaPage = () => {
           </Typography>
           <Typography sx={{ fontFamily: "roboto" }}>
             Ingeniero de Gestión e Ingeniero Configurador 
-            Dic/2007 – Nov/2012
+            <p>Dic/2007 – Nov/2012</p>
           </Typography>
         </Paper>
 
@@ -81,7 +81,7 @@ export const ExperienciaPage = () => {
           </Typography>
           <Typography sx={{ fontFamily: "roboto" }}>
             Ingeniero de Gestión 
-            Dic/2005 – Dic/2007
+            <p>Dic/2005 – Dic/2007</p>
           </Typography>
         </Paper>
       </Grid>

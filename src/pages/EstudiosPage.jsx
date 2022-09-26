@@ -97,10 +97,10 @@ export const EstudiosPage = () => {
                 marginBottom: 2,
               }}
             >
-              ICND 1 y 2
+              Diplomado en Desarrollo Front-End con React JS
             </Typography>
             <Typography sx={{ fontFamily: "roboto" }}>
-              (Interconnecting Cisco Networking Devices), Global Knowledge, 2014
+              Fundación Internacional Maria Luisa de Moreno / Tecnologico de Antioquia / Livevox, 2022
             </Typography>
           </Paper>
 
@@ -116,10 +116,10 @@ export const EstudiosPage = () => {
                 marginBottom: 2,
               }}
             >
-              Estudio 5
+              ICND 1 y 2
             </Typography>
             <Typography sx={{ fontFamily: "roboto" }}>
-              Pendiente Información
+              (Interconnecting Cisco Networking Devices), Global Knowledge, 2014
             </Typography>
           </Paper>
 
@@ -135,10 +135,10 @@ export const EstudiosPage = () => {
                 marginBottom: 2,
               }}
             >
-              Estudio 6
+              PMI - Applied Project Management
             </Typography>
             <Typography sx={{ fontFamily: "roboto" }}>
-              Pendiente Información
+              PMI-2807 5.0 Applied Project Management, Global Knowledge, 2014 
             </Typography>
           </Paper>
 
