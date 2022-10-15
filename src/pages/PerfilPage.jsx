@@ -34,7 +34,7 @@ export const PerfilPage = () => {
               marginBottom: 6,
             }}
           >
-            Ingeniero informático y tecnólogo en telecomunicaciones con 16 años de experiencia en el sector de las telecomunicaciones, pero ahora quiero trabajar en programación.
+            Ingeniero informático y tecnólogo en telecomunicaciones con 16 años de experiencia en el sector de las telecomunicaciones, con reciente desarrollo de competencias en desarrollo Front-end con React JS, en búsqueda de oportunidades laborales en dicho campo.
           </Typography>
         </Grid>
         <Grid
